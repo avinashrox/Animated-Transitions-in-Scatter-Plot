@@ -1,4 +1,5 @@
-# Fancy GapMinder
+# Animated Transitions in Scatter Plot
+You can view my work at: https://avinash-animation.netlify.app/
 
 In this homework, you'll apply knowledge of animations and joins to create a scatterplot that animates as attribute and years for the dataset are updated, which is popularly known as the GapMinder scatterplot. **This assignment is worth 10 points.** It will include the following aspects:
 
